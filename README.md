@@ -2,20 +2,21 @@
 
 ## Description
 
-This project was designed as a module 4 challenge about the javaScript Coding quiz. Once the user clicks "Start Quiz!", a timer starts from 30 seconds and quizzes are coming up one of each. If they answer a question incorrectly, they are penalized 10 seconds. At the end of the quiz, they can enter their initials to add their score. 
+This project was designed as a module 5 challenge about a work day scheduler. It's a simple calendar application that allows users to save schedules for each hour of the day. 
 
-This application is still in progress. The view scores page and some features are not finished yet.
+This application is still in progress. 
 
 ## Usage
-Click the screenshot and it will take you to the Coding Quiz Challenge website. 
+Click the screenshot and it will take you to the work day scheduler webpage. 
 
 [![coding-quiz-screenshot](assets/images/Screenshot.png)](https://oliviasylee.github.io/work-day-scheduler/)
 
 ## Features
-1. When the users click the "Start Quiz!" button, quizzes are coming up one of each and a timer starts from 60 seconds.
-2. If the users answer a question correctly, they can move on to the next question otherwise, they are penalized 10 seconds. 
-3. At the end of the quiz, they can enter their initials to add their score.
-
+1. When it's opened, today's date is displayed at the top of the calendar.
+2. When scrolloing down, the user is presented with timeblocks for standard business hours. 
+3. Each timeblock is color coded to indicate whether it is in the past, present, or future.
+4. If the user click the save button, the text for the schedule is saved in local storage. 
+5. It's still remained even if the user refresh the page. 
 
 ## Authors
 - Olivia Seonyeong Lee
