@@ -1,4 +1,4 @@
-// Current day is displayed at the top of the calendar
+// Today's date is displayed at the top of the calendar
 // Use dayjs since momentjs is deprecated
 var nowToday = dayjs().format("dddd, MMMM D YYYY")
 $("#currentDay").text(nowToday);
