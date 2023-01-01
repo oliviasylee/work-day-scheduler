@@ -7,8 +7,7 @@ This project was designed as a module 5 challenge about a work day scheduler. It
 This application is still in progress. 
 
 ## Usage
-Click the screenshot and it will take you to the work day scheduler webpage. 
-
+Live application deployed at: https://oliviasylee.github.io/work-day-scheduler/
 [![coding-quiz-screenshot](assets/images/Screenshot.png)](https://oliviasylee.github.io/work-day-scheduler/)
 
 ## Features
@@ -18,5 +17,8 @@ Click the screenshot and it will take you to the work day scheduler webpage.
 4. If the user click the save button, the text for the schedule is saved in local storage. 
 5. It's still remained even if the user refresh the page. 
 
-## Authors
-- Olivia Seonyeong Lee
+## Contributing
+Olivia Seonyeong Lee
+
+## Questions
+If you have any questions about this projects, please contact me at oliviasylee@gmail.com. You can view more of my projects at https://github.com/oliviasylee.
