@@ -2,9 +2,7 @@
 
 ## Description
 
-This project was designed as a module 5 challenge about a work day scheduler. It's a simple calendar application that allows users to save schedules for each hour of the day. 
-
-This application is still in progress. 
+This application is a simple calendar application that allows users to save schedules for each hour of the day. This application is still in progress. 
 
 ## Usage
 Live application deployed at: https://oliviasylee.github.io/work-day-scheduler/
